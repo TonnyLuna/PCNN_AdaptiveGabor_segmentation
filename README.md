@@ -48,7 +48,17 @@ nvcc segmentation.cu -o run
 
 ## Citation
 We appreciate citing our work in your publications
-[Pending]
+
+
+```
+@article{Luna2022pcnn,
+  title={Pulse-coupled Neural Network based on an adaptive Gabor filter for pavement crack segmentation},
+  author={Luna {\'A}lvarez, Antonio and M{\'u}jica Vargas, Dante and de Jes{\'u}s Rubio, Jos{\'e} and Rosales Silva, Alberto},
+  journal={Journal of Applied Research and Technology},
+  year={2022}
+}
+```
+
 
 ## License
 
