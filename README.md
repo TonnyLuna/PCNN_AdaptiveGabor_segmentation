@@ -1,5 +1,6 @@
 # PCNN with Adaptive Gabor Filter
 ## _Pulse-coupled Neural Network based on an adaptive Gabor filter for pavement crack segmentation_
+### By Antonio Luna-Álvarez and Dante Mújica-Vargas
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
